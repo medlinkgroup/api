@@ -1,0 +1,9 @@
+{
+	"title": "",
+	"description": "description",
+    "doctorUid": "1234",
+    "patientUid": "1234",
+    "date": "2019-12-26",
+    "appointmentTime": "09:30:00",
+    "timeEnd": "10:00:00"           
+}

@@ -1,0 +1,26 @@
+{
+  "name": "apipa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cylia06/apiPA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cylia06/apiPA/issues"
+  },
+  "homepage": "https://github.com/cylia06/apiPA#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.6",
+    "now": "^19.0.0",
+    "xpress": "^2.4.6"
+  }
+}

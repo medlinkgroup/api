@@ -1,0 +1,17 @@
+{
+"firstName": "cylia",
+"lastName": "boukhiba",
+"phone": " 0456",
+"photo": "http://url.jpg/",
+"email": "gmail.com",
+"place": "rue de malte",
+"doctorUid": "lGUfe8Q7Imfw6gKvcjPzb7AHpr02",
+"objetUid": "5ef5275181b4fa001790fe08",
+"birthDate": "2019-12-26",
+"location": 
+    {
+        "latitude": "48.865162",
+        "longitude": "2.368009"
+    }
+
+}
